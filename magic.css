@@ -1,14 +1,16 @@
-body { background-color:rgb(161, 62, 236); }        
+body { background-image: linear-gradient(rgb(243, 88, 88),rgb(88, 145, 238)); }        
+
 h1 { 
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold; 
     font-size: 50px; 
 }
 
 .instructions {
-    background-color:cadetblue;
+    background-color:rgb(223, 172, 231);
     width:260px;
     height:260px;
     padding:20px;
     border:1px solid black;
+    float:left;
 }
